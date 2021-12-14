@@ -1,40 +1,66 @@
-AlertOps Expert Guidance
+A DevOps Periodic Table of Critical Alert Monitoring System Integrations
 ========
+A development and operations (DevOps) team may deploy an alert tracking system to speed up incident response and resolution. Yet not all alert monitoring systems can be used in conjunction with everyday DevOps tools.
+
+Ultimately, choosing an alert tracking system that offers seamless integrations is key. With this system at its disposal, a DevOps team – regardless of size – can monitor incidents and perform myriad day-to-day tasks faster and more effectively than ever before.
+
+Integrations: Here’s What DevOps Teams Need to Know
+====
+integration allows DevOps team members to use two or more platforms at the same time. By doing so, it helps a DevOps team streamline its everyday processes, sync contact information, automate customer follow-ups and more.
+
+So, which alert tracking system integrations are must-haves for DevOps teams? To answer this question, let’s take a look at a “periodic table” of critical alert tracking system integrations for DevOps teams.
+
+APIM (Application Programming Interface Management)
+
+An API management integration includes API debugging and testing tools. It allows a DevOps team to monitor APIs and run scheduled API tests. Meanwhile, the integration enables a DevOps team member to open a new incident when an alert is received with a “Fail” status or close an incident when an alert is received with a “Pass” status.
+
+APM (Application Performance Management)
+
+An application performance management integration enables a DevOps team to monitor IT infrastructure and mobile app performance. It also ensures a DevOps team can track timely, relevant and actionable metrics and identify JavaScript errors. The integration may work in conjunction with Microsoft-managed data centers as well.
+
+CC (Collaboration/Chat)
+
+Without the ability to connect with different team members, a DevOps team is unlikely to achieve its desired results. A collaboration/chat integration allows DevOps team members to remain in constant contact with one another on any device, from any location and at any time. It fosters teamwork and information sharing across a DevOps team. Perhaps best of all, a collaboration/chat integration minimizes the risk of missed communications that otherwise result in costly, time-intensive incidents.
+
+COS (Community/Open Source)
+
+A community/open source integration helps a DevOps team quickly identify IT infrastructure problems. The integration enables a DevOps team member to automatically create a new incident and close an alert. Plus, the integration allows a DevOps team to spot security issues before they lead to data breaches.
+
+CS (Customer Support)
+
+Delivering exceptional customer support is paramount for all organizations, across all industries. A customer support integration ensures a DevOps team is ready to assist business customers with small and large issues alike. It allows a DevOps team to automate help desk support. Also, the integration provides a DevOps team with convenient access to network inventory, help desk support and other customer support apps.
+
+ET (Error Tracking)
+
+An error tracking integration helps a DevOps team monitor mistakes. It provides insights into DevOps team errors and performance issues. The integration allows a DevOps team to brainstorm solutions to performance issues and produce reports in different languages, too.
+
+IM (Infrastructure Monitoring)
+
+An infrastructure monitoring integration enables a DevOps team to identify and resolve performance-related issues before they escalate. It offers real-time server and app tracking capabilities and allows a DevOps team to monitor cloud environments, virtual machines (VMs) and physical servers. The integration also encourages DevOps teams to track assorted infrastructure metrics and generate actionable insights.
+
+ITSM (IT Service Management)
+
+IT service management involves the implementation, management and delivery of IT services to meet the needs of an organization and its key stakeholders. An IT service management integration helps a DevOps team monitor and manage its IT processes, foster collaboration with different departments and explore ways to optimize customer interactions. Furthermore, the integration empowers a DevOps team to automate various processes and introduce a self-service support ticketing system.
+
+LM (Log Management)
+
+Log management allows a DevOps team to keep records of all system and network data. A log management integration enables a DevOps team to manage its data like never before. The integration helps a DevOps team visualize data and capture meaningful insights. It also unifies log aggregation, server metrics, dashboards, external monitoring and more.
+
+WM (Web Monitoring)
+
+Web monitoring is critical, as it allows a DevOps team to assess the status and uptime performance of web and mobile apps. A web monitoring integration enables a DevOps team to test web and mobile apps and perform fixes as needed. Additionally, it helps a DevOps team track the performance and uptime of networks, servers, websites and applications.
+
+The Bottom Line on Alert Monitoring System Integrations for DevOps Teams
+
+Integrations are becoming exceedingly important to DevOps teams. Now, alert monitoring system integrations are available to help DevOps teams simplify and enhance incident response and remediation.
+
+When it comes to selecting an alert monitoring system, it generally is a good idea to select one that offers myriad integrations. This system allows a DevOps team to incorporate alert monitoring capabilities its day-to-day activities. As a result, a DevOps team can use integrations to maximize the value of its alert monitoring system investment.
 
  
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
-
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
-
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
-
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
-
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
-
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
-
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
-
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
-
-1 Red Canary 2021 Threat Detection Report
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/devops-periodic-table/
 
 Read more:
 ====
